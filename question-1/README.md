@@ -1,6 +1,12 @@
-###My approach
+Question 1: String Processing and Iteration
+My Approach
+How I thought about the problem and what I decided to do.
 
-#Questions
+Course Connections
+Which units, activities, or projects fro class prepared me for this question, (Candy Box ArrayList, 2D Arrays Parking Lot, Conway's Game of Life, etc.).
 
+What Gave Me Trouble
+Where I got stuck and how I worked through it.
 
-#Reflection
+What I Would Do Differently
+If I solved this again, what would change
