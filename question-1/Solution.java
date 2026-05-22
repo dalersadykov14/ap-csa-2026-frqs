@@ -1,1 +1,7 @@
-public class
+//part A
+
+
+
+
+//part B
+
